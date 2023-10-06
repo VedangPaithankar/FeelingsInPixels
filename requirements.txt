@@ -1,0 +1,6 @@
+yfinance==0.1.64
+tensorflow
+tensorflow-gpu
+opencv-python
+matplotlib
+opencv-python==4.8.1.78
