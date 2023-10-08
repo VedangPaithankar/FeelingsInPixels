@@ -1,12 +1,12 @@
-# FeelingsInPixels
+# FeelingsInPixels 😄
 
 FeelingsInPixels is a deep learning project that analyzes facial expressions to uncover the hidden feelings behind happy and sad faces, making it easier to understand and connect with users. This project is inspired by Nicholas Renotte's "Build a Deep CNN Image Classifier with ANY Images" tutorial.
 
-## Overview
+## Overview 🤨
 
 FeelingsInPixels uses TensorFlow and OpenCV to preprocess images and train a sequential convolutional neural network (CNN) model. The trained model can accurately differentiate between happy and sad faces.
 
-## Getting Started
+## Getting Started ⚙️
 
 To get started with FeelingsInPixels, follow these steps:
 
@@ -22,6 +22,6 @@ To get started with FeelingsInPixels, follow these steps:
 
 6. Use the trained model to classify emotions in facial images.
 
-## Credits
+## Credits 🙌
 
 This project was inspired by the "Build a Deep CNN Image Classifier with ANY Images" tutorial by Nicholas Renotte.
